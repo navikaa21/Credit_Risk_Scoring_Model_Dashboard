@@ -109,7 +109,7 @@ score = offset - factor × log(p / (1 - p))
 | `Credit_Risk_Scoring_Dashboard.jpeg` | Dashboard |
 | `CreditRiskModel.ipynb` | Complete notebook — EDA to Scorecard |
 | `scorecard_output.csv` | Test set with predicted probability & credit scores |
-| `README(Credit).md` | Project documentation |
+| `README.md` | Project documentation |
 
 
 ---
