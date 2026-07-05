@@ -106,9 +106,11 @@ score = offset - factor × log(p / (1 - p))
 
 | File | Description |
 |---|---|
-| `credit_risk_phase1_EDA.ipynb` | Complete notebook — EDA to Scorecard |
+| `Credit_Risk_Scoring_Dashboard.jpeg` | Dashboard |
+| `CreditRiskModel.ipynb` | Complete notebook — EDA to Scorecard |
 | `scorecard_output.csv` | Test set with predicted probability & credit scores |
-| `README.md` | Project documentation |
+| `README(Credit).md` | Project documentation |
+
 
 ---
 
@@ -119,5 +121,3 @@ score = offset - factor × log(p / (1 - p))
 - Log-odds transformation enables interpretable credit scoring aligned with industry standards
 
 ---
-
-*Part of Finance Analytics Portfolio | Also see: [Indian Banking Sector Dashboard](https://github.com/navikaa21/indian_banking_sector_dashboard)*
